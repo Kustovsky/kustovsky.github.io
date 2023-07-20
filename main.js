@@ -94,7 +94,7 @@ function search(text) {
             }
         }
     } else {
-        window.location = "https://duckduckgo.com/?q=" + text;
+        window.location = "https://www.google.com/search?q=" + text;
     }
 }
 
